@@ -1,0 +1,2 @@
+# Mean_field_variational_inference
+Probabilistic Inference CW3
